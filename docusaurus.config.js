@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "JS docu-notion sample site",
   tagline: "",
-  url: "https://sillsdev.github.io",
+  url: "https://justsleightly.github.io",
   baseUrl: "/js-docu-notion-sample-site/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
